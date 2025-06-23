@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">bcsd practice</string>
+
     <string name="login_title">로그인</string>
     <string name="hint_id">아이디</string>
     <string name="hint_password">비밀번호</string>
@@ -17,7 +17,18 @@
     <string name="notification_channel_random" translatable="false" tools:ignore="ExtraTranslation">random</string>
     <string name="channel_text" translatable="false" tools:ignore="ExtraTranslation">text</string>
     <string name="result" translatable="false">Result: %1$d</string>
-
+    <string name="app_name" tools:ignore="DuplicateDefinition">Music Player</string>
+    <string name="permission_audio_title" translatable="false">음악 및 오디오 접근 권한</string>
+    <string name="permission_audio_message" translatable="false">Allow BCSD_Android_2025-1 to access music and audio on this device?</string>
+    <string name="allow" translatable="false">Allow</string>
+    <string name="dont_allow" translatable="false">Don\'t allow</string>
+    <string name="permission_required" translatable="false">Permission Required!</string>
+    <string name="permission_required_message" translatable="false">Press OK to allow permission!</string>
+    <string name="permission_denied_title" translatable="false">권한 필요!</string>
+    <string name="permission_denied_message" translatable="false">음악 파일을 표시하려면 권한이 필요합니다.\n\nAllow permission to show files</string>
+    <string name="open_settings" translatable="false">Open Settings</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="ok" translatable="false">OK</string>
 
 
     <string name="lorem_ipsum" translatable="false">
